@@ -8,18 +8,17 @@ Ya pasado 6 meses del bootcamp estamos en la etapa final del Proyecto Grupal. Pr
 
 ### Skills 📋
 
-_ 📌
-* • Javascript
-* • React + Redux
-* • HTML
-* • CSS
-* • NodeJS
-* • ExpressJS
-* • SQL
-* • PostgreSQL
-* • Firebase
-* • SCRUM
-* • Git Flow_
+* Javascript
+* React + Redux
+* HTML
+* CSS
+* NodeJS
+* ExpressJS
+* SQL
+* PostgreSQL
+* Firebase
+* SCRUM
+* Git Flow
 
 #### Experiencias 💼
 
