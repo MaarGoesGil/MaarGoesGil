@@ -8,7 +8,8 @@ Ya pasado 6 meses del bootcamp estamos en la etapa final del Proyecto Grupal. Pr
 
 ### Skills 📋
 
-_ * • Javascript
+_ 📌
+* • Javascript
 * • React + Redux
 * • HTML
 * • CSS
@@ -26,14 +27,14 @@ _Mi proyecto individual: Countries. Trata de una SPA(single page application) de
 
 _**Aqui el link del proyecto y deployed**_
 
-_https://github.com/MaarGoesGil/PI-Countries_
-_https://ws-countries.vercel.app/_
+* https://github.com/MaarGoesGil/PI-Countries
+* https://ws-countries.vercel.app/
 
 ### Contact me 📧
 
-_* abrilmartinagil@gmail.com
+* abrilmartinagil@gmail.com
 * https://www.linkedin.com/in/abrilgil
-* +5492236689780_
+* +5492236689780
 
 ```
 I will be grateful if you contact me, and pleased to answer the message.
