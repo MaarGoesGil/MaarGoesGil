@@ -27,7 +27,7 @@ _Mi proyecto individual: Countries. Trata de una SPA(single page application) de
 _**Aqui el link del proyecto y deployed**_
 
 * https://github.com/MaarGoesGil/PI-Countries
-* https://ws-countries.vercel.app/
+* https://abril-countries.vercel.app/
 
 _E-commerce: Multiserv.
 Trata de una app, en la cual un **invitado** puede buscar servicios de prestaciones por aproximacion de su ubicacion, filtar, ordenar, y ver el detalle de cada servicio.
