@@ -29,6 +29,14 @@ _**Aqui el link del proyecto y deployed**_
 * https://github.com/MaarGoesGil/PI-Countries
 * https://ws-countries.vercel.app/
 
+_E-commerce: Multiserv.
+Trata de una app, en la cual un **invitado** puede buscar servicios de prestaciones por aproximacion de su ubicacion, filtar, ordenar, y ver el detalle de cada servicio.
+Para un **usuario** habilitamos que se puedan logear tango como por email como por cuenta de Google, y pueden hacer uso de los mismos campos de invitado. Tambien pueden acceder a informacion completa de un servicio, reservar turnos, y crear un nuevo servicio_
+
+_**Aqui el link del proyecto y deployed**_
+* https://github.com/MaarGoesGil/E-commerce
+* https://pg-multiserv.vercel.app/
+
 ### Contact me 📧
 
 * abrilmartinagil@gmail.com
