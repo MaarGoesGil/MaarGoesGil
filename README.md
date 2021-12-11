@@ -3,7 +3,7 @@
 *About me 📖*
 
 _Soy de Mar del Plata, Buenos Aires Argentina. Tengo 26 años, madre de dos hijos. Hace un año me adentre en el mundo de la Programación de forma autodidacta, con paciencia y dedicacion decidí anotarme en el Bootcamp intensivo de Soy Henry!
-Ya pasado 6 meses del bootcamp estamos en la etapa final del Proyecto Grupal. Prerados para una nueva aventura de Programar para una empresa_
+Ya pasado 6 meses del bootcamp, puedo decir que soy una Pragramadora Full Stack. Prerados para una nueva aventura de Programar para una empresa_
 
 
 ### Skills 📋
