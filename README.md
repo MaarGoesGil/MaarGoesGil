@@ -16,6 +16,8 @@ Ya pasado 6 meses del bootcamp, puedo decir que soy una Pragramadora Full Stack.
 * ExpressJS
 * SQL
 * PostgreSQL
+* MONGODB
+* moongose
 * Firebase
 * SCRUM
 * Git Flow
