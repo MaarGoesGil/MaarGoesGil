@@ -43,8 +43,7 @@ _**Aqui el link del proyecto y deployed**_
 
 * abrilmartinagil@gmail.com
 * https://www.linkedin.com/in/abrilgil
-* +5492236689780
-
+* +5492236680010
 ```
 I will be grateful if you contact me, and pleased to answer the message.
 ```
